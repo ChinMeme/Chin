@@ -1,1 +1,9 @@
 
+      "chainId": 101,
+      "address": "D97dJRm5nYpNyU2NdMK7gQPHF4YjRqykVz4kMezJv4WG",
+      "symbol": "CHIN",
+      "name": "Chin token coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ChinMeme/assets/main/mintinglab_ai_image_1711361929382.png",
+      "tags": [
+        "utility-token"
